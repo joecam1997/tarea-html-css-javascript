@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(224, 238, 233);
+}
+
+
+
+h1{
+      color:blueviolet;
+ }
+
+.text-center{
+    text-align: center;
+}
+pre{
+    
+    background-color:yellow;
+    margin-bottom: auto;
+    padding: auto;
+    border: 10px solid black 
+}
